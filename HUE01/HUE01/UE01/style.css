@@ -1,0 +1,11 @@
+.even{
+    font-weight: bold;
+    color: darkblue;
+    font-family: Bahnschrift, sans-serif;
+}
+
+.odd{
+    font-style: italic;
+    color: darkolivegreen;
+    font-family: Arial, sans-serif;
+}
